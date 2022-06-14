@@ -1,2 +1,0 @@
-# apprepo
-for application
