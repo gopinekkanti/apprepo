@@ -3,12 +3,6 @@ And commit it to test branch
 we fixed the issue
 please make sure this is tested by the qa team
 and push into central repo
-<<<<<<< HEAD
 ByeBye
-=======
->>>>>>> 41cfbf96196495cdb4ea1ec0d4887fdf497a2954
 Okay
-<<<<<<< HEAD
 love you
-=======
->>>>>>> refs/remotes/origin/main
